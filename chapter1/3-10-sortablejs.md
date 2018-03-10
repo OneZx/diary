@@ -140,6 +140,6 @@ var sortableC = new Sortable(c1, {
 
 ---
 前端需要学习什么移步：
-- `Front-End Developer Handbook 2018`
+- [Front-End Developer Handbook 2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 
 
