@@ -138,4 +138,8 @@ var sortableC = new Sortable(c1, {
 - 同时附上一篇介绍Sortable.js的技术博客
 - [html5 Sortable.js 拖拽排序源码分析](https://www.cnblogs.com/hao123456/p/6025015.html)
 
+---
+前端需要学习什么移步：
+- `Front-End Developer Handbook 2018`
+
 
