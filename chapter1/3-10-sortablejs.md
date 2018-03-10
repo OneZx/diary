@@ -1,6 +1,6 @@
 > 今天在弄拖拽排序，推荐一个非常好用的插件
 
-- [Sortable.js-github](https://github.com/RubaXa/Sortable)
+* [Sortable.js-github](https://github.com/RubaXa/Sortable)
 
 ```js
 <!DOCTYPE html>
@@ -116,7 +116,7 @@ var sortableC = new Sortable(c1, {
     //         localStorage.setItem(sortable.options.group.name, order.join('|'));
     //     }
     // },
-  onStart:function(evt){ //开始拖拽出发该函数
+  onStart:function(evt){ //开始拖拽时
     orderStart = sortableC.toArray();
     console.log(orderStart+'-------------startorder')
     console.log(evt)
@@ -133,3 +133,6 @@ var sortableC = new Sortable(c1, {
 </body>
 </html>
 ```
+
+
+
