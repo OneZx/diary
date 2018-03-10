@@ -145,4 +145,11 @@ var sortableC = new Sortable(c1, {
 - [前端部分知识点](https://github.com/Erichain/Front-End-Interview-Points)
 
 #### 3-10-2.github书目放到本地gitbook中
-在gitbook editor的library path目录中`git clone`存放在github上的书目
+- 在gitbook editor的library path本地目录中(/import)`git clone`存放在github上的书目
+
+![](/assets/gitbook-import.png)
+- `git clone https://github.com/OneZx/Vue-Python.git`
+
+![](/assets/gitclone.png)
+
+
