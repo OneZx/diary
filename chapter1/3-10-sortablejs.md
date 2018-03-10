@@ -2,6 +2,8 @@
 
 * [Sortable.js-github](https://github.com/RubaXa/Sortable)
 
+- 以下是自己写的小demo
+
 ```js
 <!DOCTYPE html>
 <html lang="en">
