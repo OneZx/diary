@@ -135,6 +135,7 @@ var sortableC = new Sortable(c1, {
 </body>
 </html>
 ```
-
+- 同时附上一篇介绍Sortable.js的技术博客
+- [html5 Sortable.js 拖拽排序源码分析](https://www.cnblogs.com/hao123456/p/6025015.html)
 
 
