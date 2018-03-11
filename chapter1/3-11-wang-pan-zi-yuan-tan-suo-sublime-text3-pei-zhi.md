@@ -35,6 +35,6 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 - 4 SideBarEnhancements 侧栏右键功能增强
 - 5 Alignment 多行代码等号对齐 `Ctrl+Alt+A`
 
-> blog推荐
+> 前端blog推荐
 
 - [jeffjade.com](https://jeffjade.com/2017/11/29/133-high-quality-front-end-channel/)
