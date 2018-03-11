@@ -10,6 +10,7 @@
 ```
 import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
 ```
+---
 
 ![](/assets/3-11-sublime.png)
 
@@ -17,3 +18,8 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 - 在Preferences中看到如下图所示出现，表示安装成功
 
 ![](/assets/3-11-control.png)
+
+> 用package control安装插件方法：
+
+- 1. 按`Ctrl+Shift+P` 调出命令面板
+- 2. 输入install package 选项回车，选择要安装的插件
