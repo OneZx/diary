@@ -32,3 +32,4 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 - 1. Emmet 一种快速编写html/css的方法
 - 2. JsFormat  将js格式化的插件 `Ctrl+Alt+F`
 - 3. Terminal 快速打开命令行 安装好后`Ctr+Shift+T`
+- 4. SideBarEnhancements 侧栏右键功能增强
