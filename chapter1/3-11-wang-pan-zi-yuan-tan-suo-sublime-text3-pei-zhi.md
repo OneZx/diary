@@ -38,3 +38,8 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 > 前端blog推荐
 
 - [jeffjade.com](https://jeffjade.com/2017/11/29/133-high-quality-front-end-channel/)
+
+> windows下 两个效率工具
+
+- Listary 这个是我装机必备的 快速打开文件
+- AutoHotkey 键盘快捷键脚本语言驱动
