@@ -22,4 +22,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 > 用package control安装插件方法：
 
 - 1. 按`Ctrl+Shift+P` 调出命令面板
-- 2. 输入`install package`选项回车，选择要安装的插件
+- 2. 输入`install package` 选中回车
+- 3. 在弹出的窗口中输入要安装的插件
+
+![](/assets/3-11-install.png)
