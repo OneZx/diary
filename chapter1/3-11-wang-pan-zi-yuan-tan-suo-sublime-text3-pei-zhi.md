@@ -7,4 +7,8 @@
 - 打开sublime 按** Ctrl + ` **调出console
 - 粘贴以下代码到命令行并回车（可能会卡一会儿，请等待）
 
+```
+import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())
+```
+
 ![](/assets/3-11-sublime.png)
