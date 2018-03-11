@@ -26,3 +26,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 - 3. 在弹出的窗口中输入要安装的插件
 
 ![](/assets/3-11-install.png)
+
+> Sublime text3插件推荐
+
+- 1. Emmet 一种快速编写html/css的方法
