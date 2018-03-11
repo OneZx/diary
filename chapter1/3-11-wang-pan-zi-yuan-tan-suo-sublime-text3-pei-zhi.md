@@ -5,3 +5,6 @@
 
 #### 3-11-2 Sublime Text3插件安装
 - 打开sublime 按** Ctrl + ` **调出console
+- 粘贴以下代码到命令行并回车（可能会卡一会儿，请等待）
+
+![](/assets/3-11-sublime.png)
