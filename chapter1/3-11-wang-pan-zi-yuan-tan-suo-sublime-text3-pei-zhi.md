@@ -12,3 +12,8 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 ```
 
 ![](/assets/3-11-sublime.png)
+
+- 重启Sublime Text 3
+- 在Preferences中看到如下图所示出现，表示安装成功
+
+![](/assets/3-11-control.png)
