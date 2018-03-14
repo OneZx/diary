@@ -10,4 +10,4 @@
 
 - 霍金回了一个：Wow.
 
-- he
+- He once said," I'm not afraid of death, but I'm in no hurry to die. I have so much I want to do first."
