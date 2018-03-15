@@ -6,4 +6,5 @@
   * [3-10 Sortable.js-git](chapter1/3-10-sortablejs.md)
   * [3-11 网盘资源探索\_\_sublime text3配置](chapter1/3-11-wang-pan-zi-yuan-tan-suo-sublime-text3-pei-zhi.md)
   * [3-14 Stephen William Hawking](chapter1/3-14-stephen-william-hawking.md)
+  * [3-15 深拷贝和浅拷贝](chapter1/3-15-shen-kao-bei-he-qian-kao-bei.md)
 
