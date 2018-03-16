@@ -28,7 +28,7 @@
 
 > Math
 
-- 啦
+- Math.PI 圆周率
 
 > 日期 var date = new Date()
 
