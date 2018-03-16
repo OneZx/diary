@@ -30,4 +30,7 @@
 
 - 啦
 
-> 日期
+> 日期 var date = new Date()
+
+- date.getFullYear()
+- date.getMonth() 获取当前月份(0-11,0代表1月) 
