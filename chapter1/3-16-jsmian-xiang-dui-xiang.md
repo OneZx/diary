@@ -15,3 +15,13 @@
 - slice
 - toLowerCase
 - toUpperCase
+
+> Array
+
+- shift unshift
+- pop push
+- concat
+- sort
+- slice
+- join
+- splice
