@@ -4,7 +4,7 @@
 - document.getElementById() 对象
 - document.getElementsByTagName()
 
-> String
+> String 字符串
 
 - indexOf
 - subStr
@@ -16,7 +16,7 @@
 - toLowerCase
 - toUpperCase
 
-> Array
+> Array 数组
 
 - shift unshift
 - pop push
@@ -25,3 +25,9 @@
 - slice
 - join
 - splice
+
+> Math
+
+- 啦
+
+> 日期
