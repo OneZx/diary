@@ -36,3 +36,8 @@
 - date.getMonth() 获取当前月份(0-11,0代表1月) 
 - date.getDate() 获取日期 几号  (0-31)
 - date.getDay()  获取星期几
+- getHours()
+- getMinutes()
+- getSeconds()
+- getMilliseconds()
+- getTime() 获取相对于1970-01-01的毫秒值
