@@ -9,4 +9,5 @@
   * [3-15 深拷贝和浅拷贝](chapter1/3-15-shen-kao-bei-he-qian-kao-bei.md)
   * [3-16 js面向对象](chapter1/3-16-jsmian-xiang-dui-xiang.md)
   * [3-17 面向对象json](chapter1/3-17-mian-xiang-dui-xiang-json.md)
+  * [3-27 ionic准备](chapter1/3-27-ioniczhun-bei.md)
 
