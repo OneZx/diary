@@ -10,3 +10,5 @@
 ####ionic cordova
 ionic是完全基于Angular框架,在angular基础上面做了一些封装,同时ionic自己也封装了一些UI库.让我们能更快开发移动项目.
 - ionic调用原生的功能是基于cordova,Cordova提供了使用JavaScript调用native的功能
+
+- [ionic3JD购买](https://www.itying.com/goods-460.html)
