@@ -5,3 +5,4 @@
 - [typescript文档](https://www.tslang.cn/docs/handbook/basic-types.html)
 - [angular文档](https://www.angular.cn/tutorial/toh-pt5)
 - [蚂蚁金服angularUI组件](https://ng.ant.design/#/docs/angular/introduce)
+- [饿了吗angular组件](https://element-angular.faas.ele.me/guide/install)
