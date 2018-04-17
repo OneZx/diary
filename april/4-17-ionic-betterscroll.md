@@ -1,4 +1,4 @@
-####  如何在ionic3中使用better-scroll
+####  1.如何在ionic3中使用better-scroll
 
 > 安装引入
 
@@ -27,5 +27,6 @@
   }
  ```
  
- #### flex布局整理
  
+ #### 2.flex布局整理
+ - Flex是Flexible Box的缩写，意为”弹性布局”，用来为盒状模型提供最大的灵活性。
