@@ -7,7 +7,8 @@
    + `import BScroll from 'better-scroll'` 注意 BScroll没有`{ }`包着
    
    
-   
+ > 代码
+ 
  3. 在html页中的`ion-content`下新建两层div包裹整个dom结构
    ![](/assets/wrapper.png)
  4. 在scss中`.wrapper`的高度设为定高或者`height:100%;`
