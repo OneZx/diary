@@ -77,3 +77,5 @@ constructor(
 <img src="assets/icons/common/wait.gif" alt="">
 ```
 
+#### app图标
+- [iosicongallary]()
