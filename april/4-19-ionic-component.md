@@ -36,3 +36,11 @@ export class LinetipsComponent {
     
   }
 ```
+
+> 传参
+
+```
+gotoDataList(type) {
+  this.navCtrl.push(testreadyPaage, {"dataType":type})
+}
+```
