@@ -88,3 +88,4 @@ constructor(
 - [掘金flexible.js](http://caibaojian.com/flexible-js.html)
 - [viewports剖析 ppk](https://www.w3cplus.com/css/viewports.html)
 - [Flexible实现手淘h5页面](https://github.com/amfe/article/issues/17?utm_source=caibaojian.com)
+- [如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
