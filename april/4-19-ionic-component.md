@@ -69,9 +69,9 @@ constructor(
         }
 ```
 
-> 在pages/developing/develop.html中
+> 在pages/developing/develop.html中 `assets/` 前面不要加`/`
 `../assets`不行 `../../assets`不行
 ```
-<img src="../assets/icons/common/wait.gif" alt="">
+<img src="assets/icons/common/wait.gif" alt="">
 ```
 
