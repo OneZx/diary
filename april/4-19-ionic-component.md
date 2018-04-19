@@ -70,7 +70,7 @@ constructor(
 ```
 
 > 在pages/developing/develop.html中
-
+`../assets`不行 `../../assets`不行
 ```
 <img src="../assets/icons/common/wait.gif" alt="">
 ```
