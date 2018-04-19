@@ -63,12 +63,15 @@ constructor(
 > css使用`../assets/`开头 打包后在web端和app都能看见
 
 ```
-<img src="/assets/icons/common/wait.gif" alt="">
-```
-
-```
         .phone{
             background: url(../assets/icons/trainclass/phone.png);
             background-size:contain;   
         }
 ```
+
+> 在pages/developing/develop.html中
+
+```
+<img src="/assets/icons/common/wait.gif" alt="">
+```
+
