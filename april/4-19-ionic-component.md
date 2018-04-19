@@ -85,3 +85,4 @@ constructor(
 
 > Sass中px 转 rem
 - [px2rem](https://www.w3cplus.com/preprocessor/sass-px-to-rem-with-mixin-and-function.html)
+- [掘金flexible.js](http://caibaojian.com/flexible-js.html)
