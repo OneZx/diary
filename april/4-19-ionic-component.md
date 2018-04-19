@@ -54,3 +54,7 @@ constructor(
 ){
   this.dataType = navParams.get('dataType')
 }
+
+##### vs code 插件
+- 让图片在scss、html的路径中预览
+- `image preview`
