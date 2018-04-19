@@ -58,3 +58,17 @@ constructor(
 ##### vs code 插件
 - 让图片在scss、html的路径中预览
 - `image preview`
+
+#### ionic 图片路径
+> html,css使用`/assets/`开头 打包后在web端和app都能看见
+
+```
+<img src="/assets/icons/common/wait.gif" alt="">
+```
+
+```
+        .phone{
+            background: url(/assets/icons/trainclass/phone.png);
+            background-size:contain;   
+        }
+```
