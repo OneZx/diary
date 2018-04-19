@@ -41,6 +41,6 @@ export class LinetipsComponent {
 
 ```
 gotoDataList(type) {
-  this.navCtrl.push(testreadyPaage, {"dataType":type})
+  this.navCtrl.push(userdatalistPage, {"dataType":type})
 }
 ```
