@@ -1,3 +1,9 @@
 > ionic组件
 
-- ionic g component [name]
+- 新建组件 ionic g component [name]
+- app.module.ts中引入
+
+```
+// 引入自定义components模块
+import { ComponentsModule } from '../components/components.module';
+```
