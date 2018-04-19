@@ -10,5 +10,6 @@ import { ComponentsModule } from '../components/components.module';
 - 在需要用的地方直接使用 `<line-tips></line-tips>`
 
 > 组件的传值
+
 - [ionic-github](https//github.com/ionic-team/ionic)
 - linetips.ts
