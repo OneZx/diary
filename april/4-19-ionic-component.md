@@ -39,8 +39,18 @@ export class LinetipsComponent {
 
 > 传参
 
+- more.ts 中传值
+
 ```
 gotoDataList(type) {
   this.navCtrl.push(userdatalistPage, {"dataType":type})
 }
 ```
+- userdatalist.ts接收
+dataType:string;
+
+constructor(
+  public navParams:NavParams
+){
+  this.dataType = navParams.get('dataType')
+}
