@@ -87,3 +87,4 @@ constructor(
 - [px2rem](https://www.w3cplus.com/preprocessor/sass-px-to-rem-with-mixin-and-function.html)
 - [掘金flexible.js](http://caibaojian.com/flexible-js.html)
 - [viewports剖析 ppk](https://www.w3cplus.com/css/viewports.html)
+- [Flexible实现手淘h5页面](https://github.com/amfe/article/issues/17?utm_source=caibaojian.com)
