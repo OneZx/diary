@@ -27,4 +27,12 @@ export class LinetipsComponent {
   constructor() {
 
   }
+  
+  // 初始化构造
+  // 自定义组件component没有生命周期函数
+  ngAfterContentInit() {
+    //Called after ngOnInit when the component's or     directive's content has been initialized.
+    //Add 'implements AfterContentInit' to the class.
+    
+  }
 ```
