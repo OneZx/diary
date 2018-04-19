@@ -72,6 +72,6 @@ constructor(
 > 在pages/developing/develop.html中
 
 ```
-<img src="/assets/icons/common/wait.gif" alt="">
+<img src="../../assets/icons/common/wait.gif" alt="">
 ```
 
