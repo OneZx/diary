@@ -60,7 +60,7 @@ constructor(
 - `image preview`
 
 #### ionic 图片路径
-> html,css使用`/assets/`开头 打包后在web端和app都能看见
+> css使用`../assets/`开头 打包后在web端和app都能看见
 
 ```
 <img src="/assets/icons/common/wait.gif" alt="">
@@ -68,7 +68,7 @@ constructor(
 
 ```
         .phone{
-            background: url(/assets/icons/trainclass/phone.png);
+            background: url(../assets/icons/trainclass/phone.png);
             background-size:contain;   
         }
 ```
