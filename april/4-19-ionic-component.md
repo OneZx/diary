@@ -13,3 +13,18 @@ import { ComponentsModule } from '../components/components.module';
 
 - [ionic-github](https//github.com/ionic-team/ionic)
 - linetips.ts
+
+```
+// 导入 Input
+import { Component, Input } from '@angular/core';
+
+
+export class LinetipsComponent {
+  text: string;
+  // msg 外部传递进来, message 本地接收之后的参数命名
+  @Input('msg') message;
+
+  constructor() {
+
+  }
+```
