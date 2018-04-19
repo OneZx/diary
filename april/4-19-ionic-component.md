@@ -81,4 +81,4 @@ constructor(
 - [ios-icon-gallary](http://www.iosicongallery.com/)
 
 #### 移动端适配rem
-- 移动端以rem为单位时，设置html字体大小为62.5%（chrome默认字体大小16px） 1rem刚好等于10px， 但调试的时候按chrome最小字体12px计算，1rem=12px。 这时 设置html font-size：10px 就好了。
+- 移动端以rem为单位时，设置html字体大小为62.5%（chrome默认字体大小16px） 1rem刚好等于10px， 但调试的时候按chrome最小字体12px计算，1rem=12px。 这时设置`html font-size：10px`,并将chrome最小字体改为10px就好了 (手机上不影响)。
