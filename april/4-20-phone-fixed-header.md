@@ -14,6 +14,15 @@
     top:0;
     bottom:0;
 }
+
+// 未知大小居中
+.box{
+  position:fixed;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  z-index:99;
+}
 ```
 
 #### ionic3 中better-scroll 给动态高度内容上下拉扯的效果
