@@ -3,6 +3,7 @@
 ![](/assets/fixed.png)
 
 ```
+// 父元素
 .header{
     position:fixed;
     margin:0 auto;
