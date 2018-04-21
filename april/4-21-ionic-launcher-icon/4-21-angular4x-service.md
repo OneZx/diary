@@ -23,7 +23,7 @@ import { StorageService } from '../../services/storage.service';
 ```
 public storage = new StorageService(); 
   // 可以引入和使用服务, 但官方不推荐这样的方法
-  // private storage: StorageService 表示依赖注入服务
+// private storage: StorageService 表示依赖注入服务
 constructor(private storage: StorageService) {
   console.log(this.storage);
   this.storage.setItem('username', 'lalala');
