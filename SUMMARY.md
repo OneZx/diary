@@ -17,4 +17,5 @@
   * [4-19 ionic component](april/4-19-ionic-component.md)
   * [4-20 phone-fixed-header](april/4-20-phone-fixed-header.md)
   * [4-21 ionic launcher icon](april/4-21-ionic-launcher-icon.md)
+    * [4-21 angular4.x service](april/4-21-ionic-launcher-icon/4-21-angular4x-service.md)
 
