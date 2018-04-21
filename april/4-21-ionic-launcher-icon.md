@@ -11,3 +11,4 @@
 - [一个免费压缩放大图片的网站](http://www.yasuotu.com/)
 
 #### 2. angular 4.x
+ 1. 安装脚手架`npm install -g @angular/cli`
