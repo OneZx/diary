@@ -44,5 +44,7 @@
 * tsconfig.json `TypeScript编译器的配置`
 * tslint.json `tslint的配置`
 
-
+#### angular 创建自定义组件
+> [angular中文网](https://www.angular.cn/guide/quickstart)
+- `ng g component components/header`
 
