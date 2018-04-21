@@ -46,5 +46,6 @@
 
 #### angular 创建自定义组件
 > [angular中文网](https://www.angular.cn/guide/quickstart)
+
 - `ng g component components/header`
 
