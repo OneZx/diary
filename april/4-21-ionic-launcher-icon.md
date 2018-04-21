@@ -30,7 +30,7 @@
   * assets `静态济源`
   * environments `为各个目标环境准备的文件`
   * **index.html** `主页面的html`
-  * main.ts `这个应用的主要入口`
+  * **main.ts** `这个应用的主要入口`
   * **styles.css** `全局样式`
   * test.ts `单元测试的主要入口`
   - favicon.icon `浏览器上面的小图标`
