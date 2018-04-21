@@ -52,6 +52,7 @@
 > 绑定属性
 
 ```
+// 两种都可以 建议第二种
 <p  [title]='msg'>{{username}}</p>
 <p title='{{msg}}'>{{username}}</p>
 
