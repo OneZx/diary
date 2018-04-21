@@ -74,3 +74,15 @@
   public username = '张三';
 
 ```
+
+> 数据循环
+
+1. *ngFor 普通循环
+
+```
+<ul>
+  <li *ngFor='let item of list'>
+    {{item}}
+  </li>
+</ul>
+```
