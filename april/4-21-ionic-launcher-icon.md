@@ -17,3 +17,9 @@
  2. 新建项目`ng new my-app`
  3. cd 到项目中 `npm install` 安装依赖
  4. 启动项目 `ng serve --open`
+ 
+> angular项目目录结构
+ 
+ - e2e (end to end)端对端测试
+ - node_modules 安装的第三方模块
+ - src 我们项目的所有文件
