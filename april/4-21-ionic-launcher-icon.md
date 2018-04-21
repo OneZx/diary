@@ -136,4 +136,16 @@
   }
 ```
 
-> 双向数据绑定
+> 双向数据绑定[]
+
+- 注意引入FormsModule
+```
+app.module.ts
+import { FormsModule } from '@angular/forms';
+
+  /*当前的项目依赖哪些模块*/
+  imports: [
+    BrowserModule,
+    FormsModule
+  ],
+```
