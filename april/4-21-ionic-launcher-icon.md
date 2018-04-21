@@ -109,3 +109,11 @@
     </li>
 </ul>
 ```
+
+> 条件判断
+
+```
+<div *ngIf='flag'>flag=true的情况下显示</div>
+<br>
+<button (click)='flag=!flag'>改变flag的值</button>
+```
