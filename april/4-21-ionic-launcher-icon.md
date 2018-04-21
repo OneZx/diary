@@ -68,7 +68,7 @@
   id = '123';
   msg: any; /*另一个定义属性的方法*/
 
-  news1 = '这是string类型的news';
+  news = '这是string类型的news';
 
   // 定义属性还可以给他添加修饰符 不加时默认public
   public username = '张三';
