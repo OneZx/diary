@@ -9,3 +9,5 @@
 - 附上[stackoverflow ionic
 ](https://stackoverflow.com/questions/29013825/ionic-splash-screen-error-unable-to-read-uploaded-image/31399846)
 - [一个免费压缩放大图片的网站](http://www.yasuotu.com/)
+
+#### 2. angular 4.x
