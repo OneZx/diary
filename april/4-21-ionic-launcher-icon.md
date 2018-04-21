@@ -33,6 +33,7 @@
   * main.ts `这个应用的主要入口`
   * styles.css `全局样式`
   * test.ts `单元测试的主要入口`
+  - favicon.icon `浏览器上面的小图标`
 * angular-cli.json  `angular-cli的配置文件`
 * editorconfig `给编辑器看到简单配置文件`
 * .gitignore `git配置文件`
