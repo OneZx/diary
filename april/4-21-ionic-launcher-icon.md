@@ -12,3 +12,4 @@
 
 #### 2. angular 4.x
  1. 安装脚手架`npm install -g @angular/cli`
+ 2. `https://angular.io/guide/quickstart`
