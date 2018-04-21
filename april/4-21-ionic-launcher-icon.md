@@ -49,3 +49,10 @@
 
 - `ng g component components/header`
 
+> 绑定属性
+
+```
+<p  [title]='msg'>{{username}}</p>
+<p title='{{msg}}'>{{username}}</p>
+
+```
