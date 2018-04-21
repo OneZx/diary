@@ -149,3 +149,11 @@ import { FormsModule } from '@angular/forms';
     FormsModule
   ],
 ```
+
+```
+<!-- 双向数据绑定 -->
+<input type="text" [(ngModel)]="search" />
+
+<p>{{search}}</p>
+
+```
