@@ -15,3 +15,5 @@
 
  1. 安装脚手架`npm install -g @angular/cli`
  2. 新建项目`ng new my-app`
+ 3. cd 到项目中 `npm install` 安装依赖
+ 4. 启动项目 `ng serve --open`
