@@ -150,6 +150,7 @@ import { FormsModule } from '@angular/forms';
   ],
 ```
 
+把model的值复制给文本框,当文本框的值改变,又把值赋值给model
 ```
 <!-- 双向数据绑定 -->
 <input type="text" [(ngModel)]="search" />
