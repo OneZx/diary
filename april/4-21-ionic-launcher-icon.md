@@ -156,4 +156,9 @@ import { FormsModule } from '@angular/forms';
 
 <p>{{search}}</p>
 
+  public search: any;
+  constructor() {
+    this.search = '搜索的内容';
+  }
+
 ```
