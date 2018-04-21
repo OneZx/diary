@@ -140,7 +140,7 @@
 
 - 注意引入FormsModule
 ```
-app.module.ts
+app.module.ts 中,然后imports中
 import { FormsModule } from '@angular/forms';
 
   /*当前的项目依赖哪些模块*/
