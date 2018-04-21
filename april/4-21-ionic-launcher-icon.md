@@ -95,4 +95,17 @@
 </ul>
 
 // 二维数组 要用嵌套循环出来
+<ul>
+    <li *ngFor="let item of list4; let key=index">
+
+        {{item.catename}}---{{key}}
+
+        <ol>
+            <li *ngFor="let car of item.list">
+
+               -- {{car.title}}
+            </li>
+        </ol>
+    </li>
+</ul>
 ```
