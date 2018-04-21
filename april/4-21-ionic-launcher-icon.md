@@ -21,5 +21,8 @@
 > angular项目目录结构
  
  - e2e (end to end)端对端测试
- - node_modules 安装的第三方模块
+ - node_modules 安装的第三方模块(npm install生成)
  - src 我们项目的所有文件
+   - app  组件 app.modulse.ts 定义根模块
+   - assets 静态济源
+   - environments 为各个目标环境准备的文件
