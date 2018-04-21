@@ -23,6 +23,18 @@
  - e2e (end to end)端对端测试
  - node_modules 安装的第三方模块(npm install生成)
  - src 我们项目的所有文件
-   - app  组件 app.modulse.ts 定义根模块
-   - assets 静态济源
-   - environments 为各个目标环境准备的文件
+   - app  `组件 app.modulse.ts 定义根模块`
+   - assets `静态济源`
+   - environments `为各个目标环境准备的文件`
+   - index.html `主页面的html`
+   - main.ts `这个应用的主要入口`
+   - styles.css `全局样式`
+   - test.ts `单元测试的主要入口`
+ - angular-cli.json  `angular-cli的配置文件`
+ - editorconfig `给编辑器看到简单配置文件`
+ - .gitignore `git配置文件`
+ - karma.conf.js `给karma的单元测试配置`
+ - protractor.conf.js `给protractor使用的端到端测试配置文件`
+ - README.md `项目说明文档`
+ - tsconfig.json `TypeScript编译器的配置`
+ - tslint.json `tslint的配置`
