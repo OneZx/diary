@@ -86,3 +86,11 @@
   </li>
 </ul>
 ```
+```
+// 获取索引值
+<ul>
+  <li *ngFor='let item of list;let key=index'>
+    {{item}}~~~~{{key}}
+  </li>
+</ul>
+```
