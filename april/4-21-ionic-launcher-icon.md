@@ -1,0 +1,10 @@
+#### 1. ionic launcher icon
+- ionic 中执行`ionic cordova resources` 可以制作ionicApp的图标和启动页面，但是有些坑，记录一下
+
+> icon和splash大小限制
+
+- icon.png  1920*1920 
+- splash.png 2732*2732 
+
+- 附上[stackoverflow ionic
+](https://stackoverflow.com/questions/29013825/ionic-splash-screen-error-unable-to-read-uploaded-image/31399846)
