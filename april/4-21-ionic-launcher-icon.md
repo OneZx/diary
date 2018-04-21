@@ -117,3 +117,21 @@
 <br>
 <button (click)='flag=!flag'>改变flag的值</button>
 ```
+> 事件对象
+
+```
+<input type="text" (keyup)="keyupFn($event)">
+
+  keyupFn(e) {
+    console.log(e);
+    if (e.keyCode === 13) {
+      console.log('按回车了');
+    }
+  }
+
+<button (click)="run($event)">事件对象</button>
+
+  run(e) {
+    console.log(e);
+  }
+```
