@@ -119,7 +119,9 @@ sendParent(){
 ```
 
 #### 6.父组件调用自己的方法获取子组件的数据
-1. 父组件
+1.同样调用子组件的时候取个名字
+
+2.父组件
 ```
 <button (click)='getChildData()'></button>
 
@@ -128,7 +130,7 @@ getChildData(){
     this.footer.msg;// 获取数据
 }
 ```
-2. 父组件引入ViewChild
+3.父组件引入ViewChild
 ```
 import { ViewChild } from '@angular/core';
 
