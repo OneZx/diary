@@ -97,7 +97,7 @@ sendParent(){ // 子组件自己的方法
 2. 子组件中实例化EventEmitter
 
 ```
-  @Output() private outer=new EventEmitter<string>();
+  @Output() private outer=new EventEmitter();
 ```
 
 3. 子组件通过EventEmitter 对象outer实例广播数据
