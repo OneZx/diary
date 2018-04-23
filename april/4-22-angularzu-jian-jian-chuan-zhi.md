@@ -46,3 +46,6 @@ export class IHeaderComponent {
 // 接收父组件传来的run方法
 @Input() run;
 ```
+2.父组件
+```
+```
