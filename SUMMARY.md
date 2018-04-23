@@ -18,4 +18,5 @@
   * [4-20 phone-fixed-header](april/4-20-phone-fixed-header.md)
   * [4-21 ionic launcher icon](april/4-21-ionic-launcher-icon.md)
     * [4-21 angular4.x service](april/4-21-ionic-launcher-icon/4-21-angular4x-service.md)
+  * [4-22 angular组件间传值](april/4-22-angularzu-jian-jian-chuan-zhi.md)
 
