@@ -50,7 +50,11 @@ export class IHeaderComponent {
 2.父组件
 
 ```
+// 方法
 run(){
  alert('这是home组件的run方法')
 }
+
+// html 调用的时候
+  <i-header [title]='title' [run]='run'></i-header>
 ```
