@@ -63,3 +63,12 @@ run(){
 ```
 
 #### 3.父组件接收子组件传来的值(用方法)
+1.父组件
+```
+  getDataFromChild(childData){
+    alert(childData);
+  }
+  
+  <i-header [title]='title' [run]='run' [getDataFromChild]='getDataFromChild'></i-header>
+
+```
