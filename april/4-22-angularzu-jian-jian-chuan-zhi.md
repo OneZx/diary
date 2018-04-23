@@ -23,7 +23,7 @@ export class IHeaderComponent {
     public navParams: NavParams,
   ) {
 ```
-4. 父组件
+4.父组件
  
  ```
  // html
