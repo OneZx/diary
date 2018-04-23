@@ -76,5 +76,12 @@ run(){
 2.子组件
 ```
 // 接收父组件传来的方法
-@Input() getDataFromChild
+@Input() getDataFromChild 
+[getDataFromChild]='getData...';
+
+msginfoChild = '这是子组件的信息'
+
+sendParent(){
+  this.getDataFromChild(this.msginfoChild)
+}
 ```
