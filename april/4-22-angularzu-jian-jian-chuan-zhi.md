@@ -61,3 +61,5 @@ run(){
 // html 调用的时候
   <i-header [title]='title' [run]='run'></i-header>
 ```
+
+#### 3.父组件接收子组件传来的值(用方法)
