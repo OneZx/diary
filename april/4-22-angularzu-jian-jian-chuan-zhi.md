@@ -118,6 +118,19 @@ sendParent(){
 <button (click)="footer.footerRun()">执行子组件的方法</button>
 ```
 
-3.父组件调用自己的方法获取子组件的数据
+#### 6.父组件调用自己的方法获取子组件的数据
+1. 父组件
 ```
+<button (click)='getChildData()'></button>
+
+getChildData(){
+    this.footer.footerRun()
+}
+```
+2. 父组件引入ViewChild
+```
+import { ViewChild } from '@angular/core';
+
+// ViewChild和刚才的子组件关联起来
+@ViewChild('footer') footer;
 ```
