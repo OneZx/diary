@@ -125,6 +125,7 @@ sendParent(){
 
 getChildData(){
     this.footer.footerRun()
+    this.footer.msg;// 获取数据
 }
 ```
 2. 父组件引入ViewChild
