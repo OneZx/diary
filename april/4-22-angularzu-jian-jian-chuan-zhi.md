@@ -39,3 +39,5 @@ export class IHeaderComponent {
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
  ```
+
+#### 子组件接收父组件传来的方法
