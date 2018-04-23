@@ -81,7 +81,9 @@ run(){
 
 msginfoChild = '这是子组件的信息'
 
-sendParent(){
+sendParent(){ // 子组件自己的方法
+
+// 子组件调用父组件的方法
   this.getDataFromChild(this.msginfoChild)
 }
 ```
