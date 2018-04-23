@@ -87,3 +87,6 @@ sendParent(){ // 子组件自己的方法
   this.getDataFromChild(this.msginfoChild)
 }
 ```
+
+#### 4. 子组件通过@Output执行父组件的方法
+1. 子组件引入Output和EventEmitter
