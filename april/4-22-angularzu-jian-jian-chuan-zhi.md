@@ -107,3 +107,4 @@ sendParent(){
   this.outer.emit('msg from child')
 }
 ```
+#### 5. 父组件通过ViewChild主动获取子组件的数据和方法
