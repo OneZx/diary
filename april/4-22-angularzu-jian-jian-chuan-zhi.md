@@ -99,3 +99,11 @@ sendParent(){ // 子组件自己的方法
 ```
   @Output() private outer=new EventEmitter<string>();
 ```
+
+3. 子组件通过EventEmitter 对象outer实例广播数据
+
+```
+sendParent(){
+  this.outer.emit('msg from child')
+}
+```
