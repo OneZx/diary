@@ -48,5 +48,9 @@ export class IHeaderComponent {
 @Input() run;
 ```
 2.父组件
+
 ```
+run(){
+ alert('这是home组件的run方法')
+}
 ```
