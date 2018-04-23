@@ -4,7 +4,7 @@
 ```
 <i-header [msg]="msg"></i-header>
 ```
-2. 子组件引入input模块
+2.子组件引入input模块
  
 ```
 import { Component, Input } from '@angular/core';
