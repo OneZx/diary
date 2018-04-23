@@ -43,5 +43,5 @@ export class IHeaderComponent {
 #### 2.子组件接收父组件传来的方法
 1.子组件
 ```
-@Input() run:run;
+@Input() run;
 ```
