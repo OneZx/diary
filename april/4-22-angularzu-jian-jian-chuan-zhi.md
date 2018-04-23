@@ -90,3 +90,12 @@ sendParent(){ // 子组件自己的方法
 
 #### 4. 子组件通过@Output执行父组件的方法
 1. 子组件引入Output和EventEmitter
+```
+<i-header [title]='title' [run]='run'></i-header>
+```
+
+2. 子组件中实例化EventEmitter
+
+```
+  @Output() private outer=new EventEmitter<string>();
+```
