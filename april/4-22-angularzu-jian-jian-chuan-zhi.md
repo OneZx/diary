@@ -27,7 +27,7 @@ export class IHeaderComponent {
  
  ```
  // html
-   <i-header [title]='title'></i-header>
+<i-header [title]='title'></i-header>
  
  
  // ts
