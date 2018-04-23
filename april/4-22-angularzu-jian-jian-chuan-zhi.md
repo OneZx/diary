@@ -108,3 +108,11 @@ sendParent(){
 }
 ```
 #### 5. 父组件通过ViewChild主动获取子组件的数据和方法
+1.父组件调用子组件的时候给子组件起个名字
+```
+<app-footer #footer></app-footer>
+```
+2.父组件中直接执行子组件的方法
+```
+<button (click)="footer.footerRun()">获取子组件的数据</button>
+```
