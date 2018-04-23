@@ -46,6 +46,9 @@ export class IHeaderComponent {
 ```
 // 接收父组件传来的run方法
 @Input() run;
+
+// 子组件内
+  <div class="header" #bgheader (click)="run()">
 ```
 2.父组件
 
