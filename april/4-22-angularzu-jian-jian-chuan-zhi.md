@@ -112,7 +112,12 @@ sendParent(){
 ```
 <app-footer #footer></app-footer>
 ```
+
 2.父组件中直接执行子组件的方法
 ```
-<button (click)="footer.footerRun()">获取子组件的数据</button>
+<button (click)="footer.footerRun()">执行子组件的方法</button>
+```
+
+3.父组件调用自己的方法获取子组件的数据
+```
 ```
