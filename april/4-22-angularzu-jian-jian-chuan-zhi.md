@@ -27,6 +27,7 @@ export class IHeaderComponent {
  
  ```
  // html
+ // [title]='title'后一个title是父组件传来的值,前面的title是子组件定义的接收的名称
 <i-header [title]='title'></i-header>
  
  
