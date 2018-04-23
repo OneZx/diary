@@ -7,3 +7,4 @@
 ```
 import { Component, Input } from '@angular/core';
 ```
+3.子组件中@Input接收父组件传过来的数据
