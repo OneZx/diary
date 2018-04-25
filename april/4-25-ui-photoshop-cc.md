@@ -12,3 +12,4 @@
 - 打印 Ctrl+P
 - 前进一步 Ctrl+Shift+Z
 - 后退一步 Ctrl+Alt+Z   两个重要
+- 首选项 Ctrl+K
