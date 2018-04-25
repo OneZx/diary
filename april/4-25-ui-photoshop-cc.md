@@ -27,3 +27,17 @@
 - 取消选择 Ctrl+D
 - 重新选择 Ctrl+Shift+D
 - 反向 Ctrl+Shift+I (框内框外)
+- 羽化 Ctrl+Alt+D
+
+> 视图
+
+- 显示额外内容 ctrl+H 显示额外内容
+- 标尺 Ctrl+R
+- 实际像素 Ctrl+1 (100%显示) Ctrl+Alt+0
+- 按屏幕大小缩放 Ctrl+0
+- 显示参考线 Ctrl+;
+- 放大  Ctrl++
+- 缩小 Ctrl--
+
+
+
