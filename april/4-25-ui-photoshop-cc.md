@@ -85,3 +85,6 @@
 > 抠图
 
 - 前景色填充,Alt+Delete
+
+#### ps实时预览插件
+- ps Mirror 60RMB
