@@ -20,4 +20,5 @@
     * [4-21 angular4.x service](april/4-21-ionic-launcher-icon/4-21-angular4x-service.md)
   * [4-22 angular组件间传值](april/4-22-angularzu-jian-jian-chuan-zhi.md)
   * [4-24 UI组件](april/4-24-uizu-jian.md)
+  * [4-25 UI photoshop cc](april/4-25-ui-photoshop-cc.md)
 
