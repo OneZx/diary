@@ -5,6 +5,7 @@
 - 关闭全部 Ctrl+Alt+W
 - 存储 Ctrl+S
 - 剪切 Ctrl+X
+- 拷贝 Ctrl+C
 - 还原 Ctrl+Z
 - 存储为 Ctrl+Shift+S  Ctrl+Alt+S
 - 打印 Ctrl+P
