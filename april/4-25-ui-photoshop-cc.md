@@ -36,8 +36,8 @@
 - 实际像素 Ctrl+1 (100%显示) Ctrl+Alt+0
 - 按屏幕大小缩放 Ctrl+0
 - 显示参考线 Ctrl+;
-- 放大  Ctrl++
-- 缩小 Ctrl--
+- 放大  Ctrl + +
+- 缩小 Ctrl + -
 
 
 
