@@ -21,4 +21,5 @@
   * [4-22 angular组件间传值](april/4-22-angularzu-jian-jian-chuan-zhi.md)
   * [4-24 UI组件](april/4-24-uizu-jian.md)
   * [4-25 UI photoshop cc](april/4-25-ui-photoshop-cc.md)
+    * [AI icon制作](april/4-25-ui-photoshop-cc/ai-iconzhi-zuo.md)
 
