@@ -13,3 +13,8 @@
 - 前进一步 Ctrl+Shift+Z
 - 后退一步 Ctrl+Alt+Z   两个重要
 - 首选项 Ctrl+K
+
+> 后期处理
+
+- 色相/饱和度  Ctrl+U  (饱和度是颜色深浅,亮度是明暗)
+- 反相 Ctrl+I 
