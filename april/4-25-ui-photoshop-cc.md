@@ -17,6 +17,13 @@
 > 后期处理
 
 - 色相/饱和度  Ctrl+U  (饱和度是颜色深浅,亮度是明暗)
-- 反相 Ctrl+I (框内框外)
+- 反相 Ctrl+I 
 - 图层编组 Ctrl+G 
 - 合并图层 Ctrl+E
+- 拷贝图层 Ctrl+J
+
+> 应用程序菜单
+
+- 取消选择 Ctrl+D
+- 重新选择 Ctrl+Shift+D
+- 反向 Ctrl+Shift+I (框内框外)
