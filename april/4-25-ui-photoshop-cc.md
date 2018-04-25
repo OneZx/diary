@@ -1,5 +1,6 @@
 #### 1. photoshop cc常用快捷键
 - 新建 Ctrl+N
+- 新建图层 Ctrl+Shift+N
 - 打开 Ctrl+O
 - 关闭 Ctrl+W
 - 关闭全部 Ctrl+Alt+W
