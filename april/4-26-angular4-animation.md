@@ -6,6 +6,13 @@
 ```
 npm install @angular/animations --save
 ```
+- 2. 导入模块
+
+```
+import { trigger, state, style, transition, animate, keyframes, query, stagger } from '@angular/animations';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations/animations';
+
+```
 
 > trigger 触发器
 
