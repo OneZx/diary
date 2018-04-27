@@ -17,4 +17,15 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations/an
 
 > trigger 触发器
 
+```
+  animations: [
+    trigger("myAnimationTrigger", [
+      state(...),
+      state(...),
+      transition(...),
+      transition(...)
+    ])
+  ]
+```
+
 
