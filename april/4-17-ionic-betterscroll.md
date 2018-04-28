@@ -49,6 +49,14 @@
 - scss
 
 ```
+    .stable{
+        // 固定最外面,并加上上面的header距离
+        position: fixed;
+        top: 4.4rem;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    }
     .view-wrapper{
         position: relative;
         width: 100%;
