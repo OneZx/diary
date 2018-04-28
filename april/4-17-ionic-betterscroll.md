@@ -69,7 +69,22 @@
         }
     }
 ```
- 
+- ts
+
+```
+  ionViewDidLoad() {
+    let wrapper = document.querySelector('.index-list-wrapper')
+    // 可以不加定时器
+    setTimeout(()=>{
+      const scroll = new BScroll(wrapper,{
+        bounceTime:300,
+        click:true
+      })
+    },500)
+  }
+
+```
+
 #### 3.flex布局整理
  - [runoob](http://www.runoob.com/w3cnote/flex-grammar.html)
  - [阮一峰flex](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?^%$)
