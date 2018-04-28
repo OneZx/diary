@@ -33,6 +33,7 @@
 ![](/assets/fix-head.png)
 
 ```
+<div class="stable">
   <div class="view-wrapper">
     <div class="index-list-wrapper">
       <div class="content">
@@ -44,6 +45,7 @@
       </div>
     </div>
   </div>
+</div>
 ```
 
 - scss
