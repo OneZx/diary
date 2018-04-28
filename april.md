@@ -1,0 +1,1 @@
+> demo [Vue-better-scroll-address-list](https://ustbhuangyi.github.io/better-scroll/#/examples/index-view/en)
