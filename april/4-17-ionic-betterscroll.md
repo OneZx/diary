@@ -27,12 +27,13 @@
   }
  ```
 
+#### 固定header的better-scroll
  
- #### 2.flex布局整理
+#### 3.flex布局整理
  - [runoob](http://www.runoob.com/w3cnote/flex-grammar.html)
  - [阮一峰flex](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?^%$)
  - Flex是Flexible Box的缩写，意为”弹性布局”，用来为盒状模型提供最大的灵活性。
  
  
- #### 3. better-scroll 文档
+#### 4. better-scroll 文档
  - [better-scroll](https://ustbhuangyi.github.io/better-scroll/)
