@@ -46,6 +46,29 @@
   </div>
 ```
 
+- scss
+
+```
+    .view-wrapper{
+        position: relative;
+        width: 100%;
+        height: 100%;
+        .index-list-wrapper{
+            // 给这个加better-scroll
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            overflow: hidden;
+            background:pink;
+            .content{
+                background: orange;
+                height: 900px;
+            }
+        }
+    }
+```
  
 #### 3.flex布局整理
  - [runoob](http://www.runoob.com/w3cnote/flex-grammar.html)
