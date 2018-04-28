@@ -33,9 +33,9 @@
 ![](/assets/fix-head.png)
 
 ```
-<div class="stable">
-  <div class="view-wrapper">
-    <div class="index-list-wrapper">
+<div class="stable">  // fixed最外面
+  <div class="view-wrapper">  // relative定位
+    <div class="index-list-wrapper"> // absolute定位 
       <div class="content">
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore nisi deleniti sint at ipsam sit magnam suscipit
           porro totam repellendus eius, qui tempora dolorem rem nihil architecto est, id amet. Lorem ipsum dolor sit amet
