@@ -27,7 +27,25 @@
   }
  ```
 
-#### 固定header的better-scroll
+#### 2.固定header的better-scroll
+- html结构如图
+
+![](/assets/fix-head.png)
+
+```
+  <div class="view-wrapper">
+    <div class="index-list-wrapper">
+      <div class="content">
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore nisi deleniti sint at ipsam sit magnam suscipit
+          porro totam repellendus eius, qui tempora dolorem rem nihil architecto est, id amet. Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Adipisci excepturi ipsa optio fugiat nemo, ad velit architecto, reprehenderit minima
+          est sint a esse quibusdam eum aspernatur sed, eligendi consequuntur enim.
+        </p>
+      </div>
+    </div>
+  </div>
+```
+
  
 #### 3.flex布局整理
  - [runoob](http://www.runoob.com/w3cnote/flex-grammar.html)
