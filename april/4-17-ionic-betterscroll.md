@@ -35,7 +35,7 @@
 ```
 <div class="stable">  // fixed最外面
   <div class="view-wrapper">  // relative定位
-    <div class="index-list-wrapper"> // absolute定位 
+    <div class="index-list-wrapper"> // absolute定位,给这个bs
       <div class="content">
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore nisi deleniti sint at ipsam sit magnam suscipit
           porro totam repellendus eius, qui tempora dolorem rem nihil architecto est, id amet. Lorem ipsum dolor sit amet
