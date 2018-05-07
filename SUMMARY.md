@@ -26,6 +26,6 @@
   * [4-26 angular4 animation](april/4-26-angular4-animation.md)
   * [4-28 better-scroll contacts](april/4-28-better-scroll-contacts.md)
 * [May](may.md)
-  * 5-3 better-scroll
+  * [5-3 better-scroll](may/5-3-better-scroll.md)
   * [5-4 ionic组件 mock.js](may/5-4-ioniczu-jian-mock-js.md)
 
