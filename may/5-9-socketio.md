@@ -6,3 +6,4 @@
 
 - [swiper](http://2.swiper.com.cn/)
 - [ionic3中集成swiper](https://www.cnblogs.com/ImaY/p/8627407.html)
+- [ionic3 swiper](https://blog.csdn.net/Dan_2017/article/details/78774034)
