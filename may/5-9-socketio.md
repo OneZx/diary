@@ -8,4 +8,4 @@
 - [ionic3中集成swiper](https://www.cnblogs.com/ImaY/p/8627407.html)
 - [ionic3 swiper](https://blog.csdn.net/Dan_2017/article/details/78774034)
 - [ionic3 swiper2](https://www.jianshu.com/p/cd647fc3f7f3)
-- [ionic3 锚点](https://www.jianshu.com/p/cd647fc3f7f3)
+- [ionic3 通讯录锚点](https://www.jianshu.com/p/cd647fc3f7f3)
