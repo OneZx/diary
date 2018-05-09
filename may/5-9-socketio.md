@@ -2,4 +2,6 @@
 - [socket.io官方文档](https://socket.io/docs/)
 - [博客](https://www.cnblogs.com/allanli/p/ionic_chat_with_socket_io.html)
 
+> 滑动组件 
+
 - [swiper](http://2.swiper.com.cn/)
