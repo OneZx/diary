@@ -5,3 +5,4 @@
 > 滑动组件 
 
 - [swiper](http://2.swiper.com.cn/)
+- [ionic3中集成swiper](https://www.cnblogs.com/ImaY/p/8627407.html)
