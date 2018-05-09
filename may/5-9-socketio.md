@@ -9,3 +9,4 @@
 - [ionic3 swiper](https://blog.csdn.net/Dan_2017/article/details/78774034)
 - [ionic3 swiper2](https://www.jianshu.com/p/cd647fc3f7f3)
 - [ionic3 通讯录锚点](https://www.jianshu.com/p/cd647fc3f7f3)
+- [ionic3 appetite](https://www.jianshu.com/p/fffb34589fe9)
