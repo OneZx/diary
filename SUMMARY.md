@@ -29,4 +29,5 @@
   * [5-3 better-scroll](may/5-3-better-scroll.md)
   * [5-4 ionic组件 mock.js](may/5-4-ioniczu-jian-mock-js.md)
   * [5-9 socket.io](may/5-9-socketio.md)
+  * [5-14 photo](may/5-14-photo.md)
 
