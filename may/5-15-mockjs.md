@@ -19,3 +19,29 @@ console.log(JSON.stringify(data, null, 4))
 #####语法
 - [mock-github](https://github.com/nuysoft/Mock/wiki/Syntax-Specification)
 - [mock-segmentfault](https://segmentfault.com/a/1190000008839142)
+
+####数据模板格式
+```
+'name|rule':value
+属性名|生成规则:属性值
+
+//生成规则有7种格式
+'name|min-max': value
+'name|count': value
+'name|min-max.dmin-dmax': value
+'name|min-max.dcount': value
+'name|count.dmin-dmax': value
+'name|count.dcount': value
+'name|+step': value
+// 生成规则的含义需要依赖属性值的类型才能确定
+// 属性值中可以含有@占位符
+```
+
+##### 1.属性值是字符串string
+- `'name|min-max': string`
+
+通过重复`string`生成一个字符串,重复次数大于等于min,小于等于max
+
+- `'name|count': string`
+
+重复string次数等于`count`
