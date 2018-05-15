@@ -38,7 +38,7 @@ console.log(JSON.stringify(data, null, 4))
 ```
 
 ##### 1.属性值是字符串string
-1. `'name|min-max': string`
+- `'name|min-max': string`
 
 通过重复`string`生成一个字符串,重复次数大于等于min,小于等于max
 
