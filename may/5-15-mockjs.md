@@ -1,5 +1,4 @@
-####开始安装
-> Node
+> Node安装
 
 - `npm install mockjs`
 
