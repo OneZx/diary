@@ -54,3 +54,21 @@ console.log(JSON.stringify(data, null, 4))
 生成一个大于等于min,小于等于max的整数,属性值number用来确定类型
 
 - `'name|min-max.dmin-dmax':number`
+生成一个浮点数，整数部分大于等于 min、小于等于 max，小数部分保留 dmin 到 dmax 位
+
+```
+Mock.mock({
+    'number1|1-100.1-10': 1,
+    'number2|123.1-10': 1,
+    'number3|123.3': 1,
+    'number4|123.10': 1.123
+})
+// =>
+{
+    "number1": 12.92,
+    "number2": 123.51,
+    "number3": 123.777,
+    "number4": 123.1231091814
+}
+```
+
