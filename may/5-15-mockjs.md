@@ -51,4 +51,6 @@ console.log(JSON.stringify(data, null, 4))
 属性值自动加1,初始值为number
 
 - 'name|min-max':number
-生成一个大于等于min,小鱼等于max的整数,属性值number用来确定类型
+生成一个大于等于min,小于等于max的整数,属性值number用来确定类型
+
+- `'name|min-max.dmin-dmax':number`
