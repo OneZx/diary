@@ -45,3 +45,10 @@ console.log(JSON.stringify(data, null, 4))
 - `'name|count': string`
 
 重复string次数等于`count`
+
+##### 2.属性值是Number
+- 'name|+1:number'
+属性值自动加1,初始值为number
+
+- 'name|min-max':number
+生成一个大于等于min,小鱼等于max的整数,属性值number用来确定类型
