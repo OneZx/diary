@@ -15,3 +15,6 @@ var data = Mock.mock({
 // 输出结果
 console.log(JSON.stringify(data, null, 4))
 ```
+
+#####语法
+- [mock-github](https://github.com/nuysoft/Mock/wiki/Syntax-Specification)
