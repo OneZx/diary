@@ -71,4 +71,34 @@ Mock.mock({
     "number4": 123.1231091814
 }
 ```
+##### 3.属性值是Boolean
+- `'name|1:boolean'`
+随机生成一个布尔值,值为true的概率是1/2,false的概率为1/2
 
+- `'name|min-max':value`
+随机生成一个布尔值,值为value的概率是`min/(min+max)`,值为!value的概率是`max/(min+max)`
+
+##### 4.属性值是对象Object
+- `'name'|count`:object
+从属性值`object`中随机选取count个属性
+
+- `'name|min-max': object`
+从属性值`object`中随机选取min到max个属性
+
+##### 5.属性值是数组Array
+- `'name|1': array`
+从属性值array中随机选取1个元素,作为最终值
+
+- `'name|+1':array`
+从属性值array中顺序选取一个元素,作为最终值
+
+- `'name|min-max`:array
+通过重复属性值array生成一个新数组,重复次数大于等于min,小于等于max
+
+- `name|count`:array
+通过重复属性值array生成一个新数组,重复次数为count
+
+##### 6.属性值是函数function
+
+- `'name':function`
+执行函数function,取其返回值作为最终的属性值.函数的上下文为属性`name`所在的对象
