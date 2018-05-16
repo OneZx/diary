@@ -3,5 +3,16 @@
 [typescript-playground](http://www.typescriptlang.org/play/index.html)
 
 - 多行字符串
+
+```
+//ts
+let content = `aaa
+bbb
+ccc`
+
+// js
+var content = "aaa\nbbb\nccc";
+```
+
 - 模板字符串
 
