@@ -179,6 +179,7 @@ while (Price > limitPrice) {
 }
 ```
 - **析构表达式**
+- [bolg笔记](https://www.cnblogs.com/RitaLee/p/6171142.html)
 
 ```
 function getStock(){
