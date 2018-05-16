@@ -99,6 +99,7 @@ function print(a: string, b?: string, c:boolean = true){
 - 对象的解构
 
 ```
+// ------变量的声明中运用解构
 let node = {
     type: "Identifier",
     name: "foo"
@@ -116,4 +117,17 @@ var node = {
 var type = node.type, name = node.name;
 console.log(type); // "Identifier"
 console.log(name); // "foo"
+
+//---------变量的赋值解构
+let node = {
+    type: "Identifier",
+    name: "foo"
+},
+type = "Literal",
+name = 5;
+// 使用解构来分配不同的值
+({ type, name } = node);
+console.log(type); // "Identifier"
+console.log(name); // "foo"
 ```
+[注意]一定要用一对小括号包裹解构赋值语句，JS引擎将一对开放的花括号视为一个代码块。
