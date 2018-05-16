@@ -161,5 +161,21 @@ let fc1 = doSomething();
 fc1.next();
 fc1.next();
 ```
+```
+function* getStockPrice(stock){
+    while (true) {
+        yield Math.random() * 100;
+    }
+}
 
+let priceGenerator = getStockPrice("IBM");
+
+let limitPrice = 15;
+let Price = 100;
+
+while (Price > limitPrice) {
+    Price = priceGenerator.next().value;
+    console.log(`the generator return ${Price}`)
+}
+```
 
