@@ -93,3 +93,27 @@ function print(a: string, b?: string, c:boolean = true){
 
 ##### 4.函数新特性
 - Rest and Spread(扩展)操作符
+    用来声明任意数量的方法参数
+> ES6中的解构赋值
+
+- 对象的解构
+
+```
+let node = {
+    type: "Identifier",
+    name: "foo"
+};
+// 这里的type,name需与对象中的type,name一致
+let { type, name } = node;
+console.log(type); // "Identifier"
+console.log(name); // "foo"
+
+//js
+var node = {
+    type: "Identifier",
+    name: "foo"
+};
+var type = node.type, name = node.name;
+console.log(type); // "Identifier"
+console.log(name); // "foo"
+```
