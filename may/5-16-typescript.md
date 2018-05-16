@@ -90,3 +90,6 @@ function print(a: string, b?: string, c:boolean = true){
 }
 // 可选参数必须声明在必选参数后面
 ```
+
+##### 4.函数新特性
+- Rest and Spread操作符
