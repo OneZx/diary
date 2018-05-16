@@ -48,3 +48,16 @@ hello`Hello, my name's ${myName}, i'm ${getAge()}`;
 //js
 hello(__makeTemplateObject(["Hello, my name's ", ", i'm ", ""], ["Hello, my name's ", ", i'm ", ""]), myName, getAge());
 ```
+
+##### 2.ts类型注解
+
+```
+let name: string = 'doyou';
+let alias: any = 'xixi';
+let age: number = 13;
+let result: boolean = true;
+
+function test():string{
+    return "";  // string 类型的返回值, void表示无返回值
+}
+```
