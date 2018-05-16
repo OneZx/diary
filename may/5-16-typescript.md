@@ -147,5 +147,18 @@ Math.max(...[14, 3, 77])
 Math.max(14, 3, 77);
 ```
 
+- **Generator函数**
+
+```
+function* doSomething(){
+	console.log("start");
+  yield;
+  console.log("finish");
+}
+
+var fc1 = doSomething();
+fc1.next();
+fc1.next();
+```
 
 
