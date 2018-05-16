@@ -190,5 +190,7 @@ function getStock(){
 
 let {code,price} = getStock()// 像解构赋值
 // {}中的变量必须要与对象中的变量名一致
+// 或者 let {code:codeX,price}= getStock()
+// console.log(codeX)  ES6语法
 ```
 
