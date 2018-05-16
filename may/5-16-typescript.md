@@ -189,5 +189,6 @@ function getStock(){
 }
 
 let {code,price} = getStock()// 像解构赋值
+// {}中的变量必须要与对象中的变量名一致
 ```
 
