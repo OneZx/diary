@@ -57,7 +57,7 @@ let alias: any = 'xixi';
 let age: number = 13;
 let result: boolean = true;
 
-function test():string{
+function test(name: string):string{
     return "";  // string 类型的返回值, void表示无返回值
 }
 ```
