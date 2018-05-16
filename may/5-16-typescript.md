@@ -2,6 +2,7 @@
 
 [typescript-playground](http://www.typescriptlang.org/play/index.html)
 
+##### typescript字符串特性
 - 多行字符串
 
 ```
