@@ -14,5 +14,13 @@ ccc`
 var content = "aaa\nbbb\nccc";
 ```
 
-- 模板字符串
+- 字符串模板
 
+```
+var name = 'doyou';
+var getName = ()=>{
+    return 'doyou'
+}
+console.log(`hello ${name}`);
+console.log('hello ${getName()}');
+```
