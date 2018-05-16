@@ -6,26 +6,26 @@
 
 * 多行字符串
 
-    //ts
-    let content = `aaa
-    bbb
+  //ts  
+    let content = `aaa  
+    bbb  
     ccc`
 
-    // js
+  // js  
     var content = "aaa\nbbb\nccc";
 
 * 字符串模板
 
-    var name = 'doyou';
-    var getName = ()=> 'doyou';
-    console.log(`hello ${name}`);
-    console.log(`hello ${getName()}`);
+  var name = 'doyou';  
+    var getName = \(\)=&gt; 'doyou';  
+    console.log\(`hello ${name}`\);  
+    console.log\(`hello ${getName()}`\);
 
-    //js
-    var name = 'doyou';
-    var getName = function () { return 'doyou'; };
-    console.log("hello " + name);
-    console.log("hello " + getName());
+  //js  
+    var name = 'doyou';  
+    var getName = function \(\) { return 'doyou'; };  
+    console.log\("hello " + name\);  
+    console.log\("hello " + getName\(\)\);
 
 * 自动拆分字符串
 
@@ -136,6 +136,7 @@ console.log(name); // "foo"
 
 * 解构赋值表达式\(也就是=右侧的表达式\)
 
+**函数的扩展操作符**
 ```
 求一个数组最大元素 
 // ES5 的写法  
@@ -143,10 +144,8 @@ Math.max.apply(null, [14, 3, 77])
 // ES6 的写法  
 Math.max(...[14, 3, 77])  
 //  等同于  
-Math.max(14, 3, 77);  
+Math.max(14, 3, 77);
 ```
-
-
 
 
 
