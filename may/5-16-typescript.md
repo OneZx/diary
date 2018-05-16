@@ -92,4 +92,4 @@ function print(a: string, b?: string, c:boolean = true){
 ```
 
 ##### 4.函数新特性
-- Rest and Spread操作符
+- Rest and Spread操作符(扩展运算符)
