@@ -31,4 +31,5 @@
   * [5-9 socket.io](may/5-9-socketio.md)
   * [5-14 photo](may/5-14-photo.md)
   * [5-15 mock.js](may/5-15-mockjs.md)
+  * [5-16 typescript](may/5-16-typescript.md)
 
