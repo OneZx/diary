@@ -149,6 +149,7 @@ Math.max(14, 3, 77);
 
 - **Generator函数**
 
+- [babel中文](https://babeljs.cn/repl/)
 ```
 function* doSomething(){
 	console.log("start");
