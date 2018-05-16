@@ -18,9 +18,14 @@ var content = "aaa\nbbb\nccc";
 
 ```
 var name = 'doyou';
-var getName = ()=>{
-    return 'doyou'
-}
+var getName = ()=> 'doyou';
 console.log(`hello ${name}`);
 console.log(`hello ${getName()}`);
+
+//js
+var name = 'doyou';
+var getName = function () { return 'doyou'; };
+console.log("hello " + name);
+console.log("hello " + getName());
+
 ```
