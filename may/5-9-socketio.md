@@ -10,3 +10,4 @@
 - [ionic3 swiper2](https://www.jianshu.com/p/cd647fc3f7f3)
 - [ionic3 通讯录锚点](https://www.jianshu.com/p/cd647fc3f7f3)
 - [ionic3 appetite](https://www.jianshu.com/p/fffb34589fe9)
+- [node.js+socket.io](https://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
