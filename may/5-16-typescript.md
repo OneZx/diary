@@ -178,4 +178,16 @@ while (Price > limitPrice) {
     console.log(`the generator return ${Price}`)
 }
 ```
+- **析构表达式**
+
+```
+function getStock(){
+    return {
+        code:"IBM",
+        price:100
+    }
+}
+
+let {code,price} = getStock()// 像解构赋值
+```
 
