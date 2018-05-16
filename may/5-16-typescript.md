@@ -157,7 +157,7 @@ function* doSomething(){
   console.log("finish");
 }
 
-var fc1 = doSomething();
+let fc1 = doSomething();
 fc1.next();
 fc1.next();
 ```
