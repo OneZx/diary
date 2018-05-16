@@ -22,5 +22,5 @@ var getName = ()=>{
     return 'doyou'
 }
 console.log(`hello ${name}`);
-console.log('hello ${getName()}');
+console.log(`hello ${getName()}`);
 ```
