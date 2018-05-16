@@ -81,3 +81,12 @@ function print (a: string, b: number, c: boolean = false) {
 print("张三", 13, true);　　// 假设三个参数都没有默认值，方法调用时，必须传指定个数的参数，否则 IDE 会提示错误
 print("张三", 13);　　// 当第三个参数有默认值的时候，可传，可不传。
 ```
+
+- 可选参数
+    在方法的参数声明后面用问号来标明此参数为可选参数
+
+```
+function print(a: string, b?: string, c:boolean = true){
+}
+// 可选参数必须声明在必选参数后面
+```
