@@ -61,3 +61,23 @@ function test(name: string):string{
     return "";  // string 类型的返回值, void表示无返回值
 }
 ```
+##### 3.ts参数新特性
+- 参数类型
+    在参数名称后面使用冒号来指定参数的类型
+```
+let name: string = 'doyou'
+```
+
+- 默认参数
+    在参数声明后面用等号来指定参数的默认值
+
+```
+function print (a: string, b: number, c: boolean = false) {
+// 重点：带默认值的参数一定要声明在最后面
+　　console.log(a);
+　　console.log(b);
+　　console.log(c);
+}
+print("张三", 13, true);　　// 假设三个参数都没有默认值，方法调用时，必须传指定个数的参数，否则 IDE 会提示错误
+print("张三", 13);　　// 当第三个参数有默认值的时候，可传，可不传。
+```
