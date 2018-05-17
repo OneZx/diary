@@ -3,7 +3,7 @@
 ```
 {
   "/api":{
-    "target":"http://localhost:8100/"
+    "target":"http://localhost:8100/" // 指向需要代理的ip
   }
 }
 ```
