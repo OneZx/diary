@@ -20,3 +20,5 @@ MultivaluedMap<String, Object> headers = responseContext.getHeaders();
 - JSONP只支持`GET`请求
 
 - [RxJS-Chinese-gitbook](https://legacy.gitbook.com/book/buctwbzs/rxjs/details)
+
+- [组件的懒加载 + better](https://www.cnblogs.com/gavin-cn/p/6961376.html)
