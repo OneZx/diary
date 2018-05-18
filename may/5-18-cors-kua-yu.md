@@ -22,3 +22,5 @@ MultivaluedMap<String, Object> headers = responseContext.getHeaders();
 - [RxJS-Chinese-gitbook](https://legacy.gitbook.com/book/buctwbzs/rxjs/details)
 
 - [组件的懒加载 + better](https://www.cnblogs.com/gavin-cn/p/6961376.html)
+
+- 压缩Aot`ionic cordova build android --prod`
