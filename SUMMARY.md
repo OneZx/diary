@@ -33,4 +33,5 @@
   * [5-15 mock.js](may/5-15-mockjs.md)
   * [5-16 typescript](may/5-16-typescript.md)
   * [5-17 angular4.x 跨域反向代理](may/5-17-angular4x-kua-yu-fan-xiang-dai-li.md)
+  * [5-18 CORS 跨域](may/5-18-cors-kua-yu.md)
 
