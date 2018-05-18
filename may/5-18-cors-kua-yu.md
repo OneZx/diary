@@ -1,4 +1,5 @@
 - CORS(Cross origin resource sharing)跨域资源共享
+- [cors-阮一峰](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 
 - Access-Control-Allow-Origin
 
