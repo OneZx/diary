@@ -22,3 +22,17 @@
   "e2e": "ng e2e"
 }
 ```
+
+> ionic3 配置
+
+- ionic.config.json中
+
+```
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "https://api.instagram.com/api"
+    }
+  ]
+```
+在想访问`https://api.instagram.com/api/xxx`的时候,就改成访问`/api/xxx`,ionic会自动把以`http://localhost:8100/api`开头的请求都代理成`https://api.instagram.com/api`访问
