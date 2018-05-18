@@ -1,3 +1,5 @@
+> angular4.x 解决跨域问题(ionic3 直接在ionic.config.json中配置)
+
 - 新建一个JSON文件,名为`proxy.config.json`
 
 ```
