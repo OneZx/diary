@@ -16,3 +16,5 @@ MultivaluedMap<String, Object> headers = responseContext.getHeaders();
         headers.add("Access-Control-Allow-Headers", "X-Requested-With, Content-Type, X-Codingpedia, Authorization,token");
 
 ```
+
+- JSONP只支持`GET`请求
