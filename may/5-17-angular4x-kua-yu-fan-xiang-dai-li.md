@@ -36,3 +36,23 @@
   ]
 ```
 在想访问`https://api.instagram.com/api/xxx`的时候,就改成访问`/api/xxx`,ionic会自动把以`http://localhost:8100/api`开头的请求都代理成`https://api.instagram.com/api`访问
+
+```
+// myproject
+{
+  "name": "gphone",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/",
+      "proxyUrl": "https://api.douban.com"
+    }
+  ]
+}
+
+
+```
