@@ -4,3 +4,14 @@
 
 后端服务器设置`response.setHeader("Access-Control-Allow-Origin", "*");`
 - 服务端告诉浏览器,我的服务器接收任何请求来源,请不要拦截
+- 后台使用`拦截器统一处理`
+
+```
+MultivaluedMap<String, Object> headers = responseContext.getHeaders();
+
+        headers.add("Access-Control-Allow-Origin", "*");
+        //headers.add("Access-Control-Allow-Origin", "http://abcd.org"); //allows CORS requests only coming from abcd.org
+        headers.add("Access-Control-Allow-Methods", "GET, POST, DELETE, PUT, OPTIONS");
+        headers.add("Access-Control-Allow-Headers", "X-Requested-With, Content-Type, X-Codingpedia, Authorization,token");
+
+```
