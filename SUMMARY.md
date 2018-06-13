@@ -37,4 +37,6 @@
   * [5-25 RxJS](may/5-25-rxjs.md)
   * [5-28 easy-mock](may/5-28-easy-mock.md)
   * [5-29 ionic3 httpclient](may/5-29-ionic3-httpclient.md)
+* [June](june.md)
+  * [6-13 angular5 Pipe](june/6-13-angular5-pipe.md)
 
