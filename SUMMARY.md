@@ -41,5 +41,5 @@
   * [6-13 angular5 Pipe](june/6-13-angular5-pipe.md)
 * [July](july.md)
   * [7-20 Angular](july/7-20-angular.md)
-  * 7-23 记录一下每天都做了什么
+  * [7-23 记录一下每天都做了什么](july/7-23-ji-lu-yi-xia-mei-tian-du-zuo-le-shi-yao.md)
 
